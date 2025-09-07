@@ -1,0 +1,4 @@
+[submodule "assets/dist"]
+	path = assets/dist
+	url = https://github.com/GawdTech/Template-Bootstrap.git
+	branch = assets
