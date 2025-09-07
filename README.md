@@ -1,2 +1,2 @@
-# Template-Bootstrap
-Bootstrap 5 Template for GitHub Pages
+# Static Assets
+Bootstrap 5.3.8
